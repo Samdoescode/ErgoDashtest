@@ -1,3 +1,4 @@
+$StartSCHEMATC
 EESchema Schematic File Version 4
 LIBS:ergodash-cache
 EELAYER 26 0
